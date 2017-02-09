@@ -1,0 +1,12 @@
+GDN - Gdańsk
+BZG - Bydgoszcz
+POZ - Poznań
+WAWA - Warszawa
+LCJ - Łódź
+WRO - Wrocław
+KTW - Katowice
+KRK - Kraków
+RZE - Rzeszów
+BTS - Bratysława
+KSC - Koszyce
+TAT - Poprad

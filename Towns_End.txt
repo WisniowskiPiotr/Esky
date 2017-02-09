@@ -1,0 +1,46 @@
+HEL - Helsinki
+STO - Sztokcholm
+CPH - Kopenchaga
+MMX - Malmo
+GOTE - Goteborg
+OSLO - Oslo
+HAMB - Hamburg
+MUC - Monachium
+FRAN - Frankfurt
+LON - Londyn
+BRS - Bristol
+BHX - Birmingham
+MAN - Manchester
+LPL - Liverpool
+DSA - Doncaster
+LBA - Leeds
+DUB - Dublin
+BFST - Belfast
+ORK - Cork
+DTM - Dortmund
+BERL - Berlin
+EIN - Eindhoven
+MIL - Mediolan
+WENE - Wenecja
+BOLO - Bolonia
+ROM - Rzym
+MLA - Malta
+ALC - Alicante
+BARC - Barcelona
+LWO - Lwów
+GNB - Grenoble
+PSA - Piza
+AMS - Amsterdam
+BGO - Bergen
+REK - Rejkiawik
+EDI - Edinburgh
+GLAS - Glasgow
+BTS - Bratysława
+BUD - Budapeszt
+MAD - Madryt
+SVG - Stavanger
+
+
+
+
+
